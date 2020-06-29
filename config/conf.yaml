@@ -1,0 +1,37 @@
+log:
+  mylogname: 'miyi'
+  loglevel: 'DEBUG'
+  shlevel: 'DEBUG'
+  fileleval: 'DEBUG'
+  fmt: '[%(levelname)s][%(asctime)s][%(filename)s:%(lineno)d]信息：%(message)s'
+
+mysql:
+  host: '120.78.128.25'
+  port: 3306
+  user: 'future'
+  password: '123456'
+  charset: 'utf8'
+  database: 'futureloan'
+
+excel:
+  file: 'cases.xlsx'
+
+user:
+  mobile_phone: '13811111115'
+  pwd: '15131211Q#'
+
+admin_user:
+  mobile_phone: '13899990001'
+  pwd: '111111111'
+
+invest_user:
+  mobile_phone: '13811111122'
+  pwd: '87654321'
+
+host: 'http://api.lemonban.com/futureloan'
+
+
+
+
+
+
